@@ -29,7 +29,3 @@ firebase deploy --only hosting
 ```
 
 Targets Firebase project `mental-independence-app`. Set in [`.firebaserc`](.firebaserc).
-
-## Project notes
-
-The full design rationale (why single-file, why localStorage-only, what's intentionally out of scope) is in [`docs/CLAUDE.md`](docs/CLAUDE.md). The original handoff source is preserved at [`docs/mental-independence-30.jsx`](docs/mental-independence-30.jsx).

@@ -8,8 +8,6 @@ A 30-day program for auditing installed beliefs and consciously constructing the
 
 Single-page React app. Four weeks of daily prompts (audit → interrogate → expose → install), reflection journaling, resistance ratings, and weekly integration days. State lives in `localStorage` only. No accounts, no backend, no analytics. Nothing leaves your device.
 
-Inspired by the lecture "Become Mentally Unbreakable Like the Top 1% — In 30 Days" by Prof Jiang Academy.
-
 ## Stack
 
 - Vite + React 19

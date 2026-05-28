@@ -276,9 +276,6 @@ If you find yourself completing the journal days consistently but skipping or mi
         <div style={{ fontSize: "0.95rem", color: "#7a6a5a", lineHeight: 1.8, borderLeft: "2px solid #2a2520", paddingLeft: "20px" }}>
           A 30-day program for auditing installed beliefs, examining their origins, and consciously constructing the operating logic you choose to keep.
         </div>
-        <div style={{ marginTop: "16px", fontSize: "0.78rem", color: "#4a3a2a", fontStyle: "italic" }}>
-          Inspired by the lecture "Become Mentally Unbreakable Like the Top 1% — In 30 Days" by Prof Jiang Academy (2026).
-        </div>
       </div>
 
       {sections.map((s, i) => (
